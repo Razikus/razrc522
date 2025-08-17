@@ -15,6 +15,17 @@ This is a modernized repository of the original [pi-rc522](https://github.com/on
 - **Better error handling** - Simple boolean returns instead of complex error tuples like original's `(error, data, length)`
 - **Production ready** - Designed for real-world applications, not just prototypes 
 
+## Quick start
+
+```
+pip install razrc522==1.0.0
+
+cd examples
+
+python read_full_0.py
+```
+
+
 ## Hardware Compatibility
 
 This library is specifically designed for RC522 RFID modules with IRQ pin support. 
