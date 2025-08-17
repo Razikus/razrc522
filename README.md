@@ -1,6 +1,12 @@
+
+[![PyPI version](https://badge.fury.io/py/razrc522.svg)](https://badge.fury.io/py/razrc522)
+[![Python versions](https://img.shields.io/pypi/pyversions/razrc522.svg)](https://pypi.org/project/razrc522/)
+[![License](https://img.shields.io/pypi/l/razrc522.svg)](https://github.com/Razikus/razrc522/blob/main/LICENSE)
+
 # razrc522
 
 Modern Python library for RC522 RFID reader - updated for current Python and kernel versions 6+
+
 
 ## About
 
